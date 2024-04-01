@@ -1,0 +1,12 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "description": "ewsgerfdbbfd",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
